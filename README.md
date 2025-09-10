@@ -109,7 +109,7 @@ You can download Houdini from the official website at
 
 I recommend working through each chapter step by step and taking time to experiment with variations. Whenever possible, type parameters manually instead of copy-pasting to reinforce learning. Use the provided project files and resources, and explore additional documentation and the GitHub repository (link is available in the next section) for extended examples.
 
-> **Note**: The author acknowledges the use of cutting-edge AI, such as ChatGPT, with the sole aim of enhancing the language and clarity within the book, thereby ensuring a smooth reading experience for readers. The content itself has been crafted by the author and edited by a professional publishing team.
+
 </details>
 
     
