@@ -21,7 +21,7 @@ Alasgar Hasanov</p>
 <details open> 
   <summary><h2>About the book</summary>
 <a href="https://www.packtpub.com/en-us/product/vfx-made-easy-with-houdini-first-edition-9781835882900">
-<img src="https://content.packt.com/B22277/cover_image_small.jpg" alt="Unity Cookbook, Fifth Edition" height="256px" align="right">
+<img src="https://github.com/user-attachments/assets/174b1796-86ce-4487-967f-e39cce1d04a9" alt="Unity Cookbook, Fifth Edition" height="256px" align="right">
 </a>
 
 Unlock Houdini’s procedural power to create dynamic simulations and cinematic renders with expert guidance from Alasgar Hasanov, a VFX artist with more than a decade of experience crafting CGI and visual effects for films, television, and commercials.
